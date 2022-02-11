@@ -439,6 +439,8 @@ align-items: center;
         max-width:80%;
         
      }
+.right_section{margin-right:20px;
+}
 }
 
 /* //////////////universal ////////// */
@@ -478,7 +480,7 @@ html{
         flex-direction: column;
     }
     .gallery .gallery-container .content-div {
-     max-width:60%;
+     max-width:80%;
       margin: 60px auto; 
     } 
     .header_section{
