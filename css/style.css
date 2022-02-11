@@ -440,6 +440,10 @@ align-items: center;
         
      }
 .right_section{margin-right:20px;
+overflow: hidden;
+}
+.content h1 {
+    font-size: 6rem;
 }
 }
 
